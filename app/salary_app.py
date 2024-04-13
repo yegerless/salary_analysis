@@ -1,8 +1,8 @@
 import pandas as pd
 import streamlit as st
 
-from app.parsing_data import df_salary, df_inflation, df_salary_delta, df_real_salary
-from app.graphs import salary_fig, salary_delta_fig, real_salary_fig
+from parsing_data import df_salary, df_inflation, df_salary_delta, df_real_salary
+from graphs import salary_fig, salary_delta_fig, real_salary_fig
 
 st.set_page_config(layout="wide")
 
