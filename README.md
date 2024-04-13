@@ -19,4 +19,4 @@
 3. Установите необходимые зависимости при помощи команды 'pip install -r requirements.txt'
 4. Запустит приложение локально при помощи команды 'streamlit run app/salary_app.py'
 
-Или посмотрите приложение по ссылке: 
+Или посмотрите приложение по ссылке: https://yegerless-salary-analysis-appsalary-app-3yrbcv.streamlit.app
